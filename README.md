@@ -1,6 +1,6 @@
 # Sorting Algorithms
 
-
+TEAM PROJECT
 
 Sorting algorithms are a fundamental part of computer science. They allow data to be organized in an ordered fashion and can be applied to many different problems. There are many different sorting algorithms, each with their own pros and cons. Some of the most popular sorting algorithms are selection sort, insertion sort, bubble sort, merge sort, quick sort, and heap sort.
 
